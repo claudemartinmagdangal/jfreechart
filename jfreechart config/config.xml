@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\claud\OneDrive\Documents\UpWork\jfreechart\jfreechart\target\jfreechart-1.0.0.jar</jar>
+  <outfile>C:\Users\claud\OneDrive\Documents\UpWork\jfreechart\jfreechart\target\Activity Software.exe</outfile>
+  <errTitle>Please install java first to use this application.</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\claud\OneDrive\Documents\UpWork\jfreechart\jfreechart\src\resources\activities.ico</icon>
+  <singleInstance>
+    <mutexName>ActivitySoftware</mutexName>
+    <windowTitle>ActivitySoftware</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Activity Software</fileDescription>
+    <copyright>Claude Martin Magdangal</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Claude Martin Magdangal</productName>
+    <companyName>Claude Martin Magdangal</companyName>
+    <internalName>Activity Software</internalName>
+    <originalFilename>ActivitySoftware.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>

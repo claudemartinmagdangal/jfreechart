@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.4
+Built-By: claud
+Build-Jdk: 15.0.2
+Class-Path: libs/jfreechart-1.5.3.jar libs/jxl-2.6.12.jar libs/log4j-1.2
+ .14.jar
+Main-Class: io.jfreechart.Main
+
